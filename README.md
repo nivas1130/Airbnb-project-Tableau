@@ -1,1 +1,2 @@
 # Airbnb-project-Tableau
+The dashboard displays various Airbnb details pertaining to Seattle, such as price based on zipcode, a map displaying the zipcodes along with their corresponding prices, yearly revenue, optimal month to list in the market, peak period when customers pay the most, and average cost per bedroom. The dashboard also showcases price ranges for one to six bedrooms, and provides insights into competition for bedrooms that are in high demand.
